@@ -1,5 +1,3 @@
-[submodule "gltf"]
-	url = https://github.com/godot-extended-libraries/gltf.git
 [submodule "mesh_lod"]
 	url = https://github.com/godot-extended-libraries/mesh_lod.git
 [submodule "scene_merge"]
