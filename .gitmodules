@@ -1,3 +1,9 @@
 [submodule "scene_merge"]
 	path = scene_merge
 	url = https://github.com/godot-extended-libraries/scene_merge.git
+[submodule "mesh_lod"]
+	path = mesh_lod
+	url = https://github.com/godot-extended-libraries/mesh_lod.git
+[submodule "gltf"]
+	path = gltf
+	url = https://github.com/godot-extended-libraries/gltf.git
