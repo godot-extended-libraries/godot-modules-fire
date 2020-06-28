@@ -7,3 +7,6 @@
 [submodule "audio_effect_stream"]
 	path = audio_effect_stream
 	url = https://github.com/godot-extended-libraries/audio_effect_stream.git
+[submodule "dmik"]
+	path = dmik
+	url = https://github.com/godot-extended-libraries/dmik.git
