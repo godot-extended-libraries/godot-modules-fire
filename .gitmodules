@@ -1,6 +1,3 @@
-[submodule "scene_merge"]
-	path = scene_merge
-	url = https://github.com/godot-extended-libraries/scene_merge.git
 [submodule "vector_graphics"]
 	path = vector_graphics
 	url = https://github.com/godot-extended-libraries/godot_vector_graphics.git
