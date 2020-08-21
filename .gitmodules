@@ -7,9 +7,6 @@
 [submodule "gltf"]
 	path = gltf
 	url = https://github.com/godot-extended-libraries/gltf.git
-[submodule "vector_graphics"]
-	path = vector_graphics
-	url = https://github.com/godot-extended-libraries/godot_vector_graphics.git
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/godot-extended-libraries/godot-sqlite.git
