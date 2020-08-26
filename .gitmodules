@@ -15,4 +15,4 @@
 	url = https://github.com/godot-extended-libraries/lottie.git
 [submodule "json"]
 	path = json
-	url = https://github.com/godot-extended-libraries/godot-modules-fire.git
+	url = https://github.com/godot-extended-libraries/json.git
