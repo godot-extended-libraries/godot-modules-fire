@@ -13,6 +13,3 @@
 [submodule "lottie"]
 	path = lottie
 	url = https://github.com/godot-extended-libraries/lottie.git
-[submodule "json"]
-	path = json
-	url = https://github.com/godot-extended-libraries/json.git
