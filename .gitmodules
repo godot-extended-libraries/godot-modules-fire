@@ -1,6 +1,3 @@
-[submodule "git@github.com:godot-extended-libraries/godot-sqlite.git"]
-	path = git@github.com:godot-extended-libraries/godot-sqlite.git
-	url = sqlite
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/godot-extended-libraries/godot-sqlite.git
