@@ -7,6 +7,3 @@
 [submodule "dmik"]
 	path = dmik
 	url = https://github.com/godot-extended-libraries/dmik.git
-[submodule "gltf"]
-	path = gltf
-	url = https://github.com/godot-extended-libraries/gltf.git
