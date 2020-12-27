@@ -1,9 +1,6 @@
 [submodule "sqlite"]
 	path = sqlite
 	url = https://github.com/godot-extended-libraries/godot-sqlite.git
-[submodule "dmik"]
-	path = dmik
-	url = https://github.com/godot-extended-libraries/dmik.git
 [submodule "scene_merge"]
 	path = scene_merge
 	url = https://github.com/godot-extended-libraries/scene_merge.git
