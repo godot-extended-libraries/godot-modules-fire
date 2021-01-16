@@ -7,3 +7,6 @@
 [submodule "ewbik"]
 	path = ewbik
 	url = https://github.com/godot-extended-libraries/ewbik.git
+[submodule "godex"]
+	path = godex
+	url = https://github.com/GodotECS/godex.git
