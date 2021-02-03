@@ -10,3 +10,6 @@
 [submodule "godex"]
 	path = godex
 	url = https://github.com/GodotECS/godex.git
+[submodule "geometry3"]
+	path = geometry3
+	url = git@github.com:godot-extended-libraries/geometry3.git
