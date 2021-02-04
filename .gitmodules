@@ -16,3 +16,6 @@
 [submodule "json"]
 	path = json
 	url = https://github.com/godot-extended-libraries/json.git
+[submodule "dmik"]
+	path = dmik
+	url = git@spark.chibifire.com:ernest.lee/fire-workspace.githttps://github.com/godot-extended-libraries/ewbik.git
