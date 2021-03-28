@@ -10,3 +10,9 @@
 [submodule "geometry3"]
 	path = geometry3
 	url = https://github.com/godot-extended-libraries/geometry3.git
+[submodule "https://github.com/godot-extended-libraries/cmark_gfm.git"]
+	path = https://github.com/godot-extended-libraries/cmark_gfm.git
+	url = cmark_gfm
+[submodule "cmark_gfm"]
+	path = cmark_gfm
+	url = https://github.com/godot-extended-libraries/cmark_gfm
