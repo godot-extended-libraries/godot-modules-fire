@@ -10,3 +10,6 @@
 [submodule "https://github.com/godot-extended-libraries/cmark_gfm.git"]
 	path = https://github.com/godot-extended-libraries/cmark_gfm.git
 	url = cmark_gfm
+[submodule "skeleton_modifications"]
+	path = skeleton_modifications
+	url = https://github.com/fire/skeleton_modifications.git
